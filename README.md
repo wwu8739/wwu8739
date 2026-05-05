@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Wu Wansheng
 
-<!--
-**wwu8739/wwu8739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Final Project
 
-Here are some ideas to get you started:
+### Build Your Own Adventure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A simple interactive web app where users can search, create, and explore adventure choices.
+
+---
+
+🔗 Repository:
+https://github.com/wwu8739/final-project2
+
+🌐 Live Demo:
+https://wwu8739.github.io/final-project2/
